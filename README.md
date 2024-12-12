@@ -14,8 +14,8 @@ This application provides an API to generate, configure, and download presentati
 1. Clone the repository:
 
    ```bash
-   git clone <(https://github.com/Sahilkumar19/Slide-Generator-API.git)>
-   cd <Slide-Generator-API>
+   git clone https://github.com/Sahilkumar19/Slide-Generator-API.git
+   cd Slide-Generator-API
    ```
 
 2. Install dependencies:
