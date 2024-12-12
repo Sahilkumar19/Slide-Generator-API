@@ -9,6 +9,10 @@ This application provides an API to generate, configure, and download presentati
 - Download generated presentations.
 - Built-in rate-limiting for API requests.
 
+## Testing
+
+- I have tested all endpoints of the APIs using the postman.
+
 ## Setup Instructions
 
 1. Clone the repository:
