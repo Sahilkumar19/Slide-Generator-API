@@ -1,6 +1,6 @@
 # Slide Generator API
 
-This application provides an API to generate, configure, and download presentations dynamically. It uses Flask for the API server and Python's `pptx` library to create PowerPoint presentations. I have added some sample presentation generated uing the api which are in the presentatins foledr inside the main directory(SlideGeneratorAPI).
+This application provides an API to generate, configure, and download presentations dynamically. It uses Flask for the API server and Python's `pptx` library to create PowerPoint presentations. I have added some sample presentation generated uing the api which are in the presentatins folder inside the main directory(SlideGeneratorAPI).
 
 ## Features
 
