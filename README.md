@@ -14,14 +14,14 @@ This application provides an API to generate, configure, and download presentati
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <[repository-url](https://github.com/Sahilkumar19/Slide-Generator-API.git)>
+   cd <Slide-Generator-API>
    ```
 
 2. Install dependencies:
 
    ```bash
-   pip install flask python-pptx requests
+   pip install -r requirements.txt
    ```
 
 3. Set up an environment variable for the Gemini API key (optional):
