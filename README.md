@@ -13,10 +13,6 @@ This application provides an API to generate, configure, and download presentati
 
 - I have tested all endpoints of the APIs using the postman.
 
-## Loom Video Link
-
-- https://www.loom.com/share/06fa628fac7a46caa3ce9f30d910d0b7?sid=a9dedd10-2824-4407-b41d-dec70f6ee562
-
 ## Setup Instructions
 
 1. Clone the repository:
